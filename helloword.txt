@@ -1,4 +1,5 @@
 haha test
 www.baidu.com
+https://github.com/timmy3131/design-resource
 https://github.com/yangyangwithgnu/goagent_out_of_box_yang
 https://github.com/yangyangwithgnu/hardseed
